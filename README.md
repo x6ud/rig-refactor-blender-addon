@@ -4,6 +4,10 @@ Fix some common problems in imported rigged models.
 
 ![](screenshots/1.png)
 
+## Download
+
+[v1.0.0](https://github.com/x6ud/rig-refactor-blender-addon/releases/download/v1.0.0/rig_refactor.zip) (for Blender 4.3)
+
 ## Features
 
 1. Automatically connect bones according to their parent-child relationship.
